@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		2165A58A225D3C7C0094DB8B /* N-Repeated Elements */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "N-Repeated Elements"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2165A58D225D3C7C0094DB8B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2165A594225D3C980094DB8B /* prompt.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = prompt.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				2165A58D225D3C7C0094DB8B /* main.cpp */,
+				2165A594225D3C980094DB8B /* prompt.rtf */,
 			);
 			path = "N-Repeated Elements";
 			sourceTree = "<group>";
